@@ -1690,6 +1690,7 @@ input, select, textarea {
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 24em;
+		margin-right: 30px;
 	}
 
 		input[type="button"]:hover,
